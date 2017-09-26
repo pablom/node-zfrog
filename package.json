@@ -1,0 +1,19 @@
+{
+  "name": "zfrog-gateway",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Paul Muraviev",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.5",
+    "express-validation": "^1.0.2",
+    "ffi": "^2.2.0",
+    "fs": "0.0.1-security",
+    "nan": "^2.7.0",
+    "pool-redis-promise": "^1.0.1"
+  }
+}
