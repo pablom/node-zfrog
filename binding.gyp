@@ -8,7 +8,8 @@
       "target_name": "zfrog",
       "sources": [
         "src/njs_messages.cc",
-        "src/njs_zfrog.cc"
+        "src/njs_zfrog.cc",
+        "src/zfrog_app.cc"
       ],
       "include_dirs" : [
           "<!(node -e \"require('nan')\")"
